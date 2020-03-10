@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Asiago",
+    "category": "cheese",
+    "description": "Asiago is an Italian cow's milk cheese that can assume different textures, according to its aging, from smooth for the fresh Asiago to a crumbly texture for the aged cheese.",
+    "img": "/assets/images/grocery/cheeses/asiago.jpg",
+    "price": "15.00"
+  },
+  {
+    "name": "Bel Paese",
+    "category": "cheese",
+    "description": "Bel Paese is a semi-soft Italian cheese. It was invented in 1906 by Egidio Galbani who wanted to produce a mild and delicate cheese to sell mainly in Italy. The name Bel Paese comes from the title of a book written by Antonio Stoppani. It is Italian for \"beautiful country\", and is used as a phrase for Italy itself.",
+    "img": "/assets/images/grocery/cheeses/belpaese.jpg",
+    "price": "13.00"
+  },
+  {
+    "name": "Caciocavallo",
+    "category": "cheese",
+    "description": "Caciocavallo is a type of stretched-curd cheese made out of sheep's or cow's milk. It is produced throughout Southern Italy, particularly in the Apennine Mountains and in the Gargano peninsula. Shaped like a teardrop, it is similar in taste to the aged Southern Italian Provolone cheese, with a hard edible rind.",
+    "img": "/assets/images/grocery/cheeses/caciocavallo.jpg",
+    "price": "17.00"
+  },
+  {
+    "name": "Dolomiten",
+    "category": "cheese",
+    "description": "Dolomitenkönig, a Swiss style cheese from the autonomous Alto Adige (A.K.A. Trentino-South Tyrol) area of Northern Italy, means “Dolomite King” in German, due to this mountainous region's shared Germanic/Italian heritage. Dolomiten resembled Swiss cheese, with its nutty flavor and holey texture.  The cheese is made from milk from the pristine Pusteria Valley and is aged about 2 months before being sold.",
+    "img": "/assets/images/grocery/cheeses/dolomiten.jpg",
+    "price": "17.00"
+  },
+  {
+    "name": "Fontal",
+    "category": "cheese",
+    "description": "Soft, mild & creamy, Fontal belongs to the Fontina-style family but is set apart by its versatility making it a great cheese to keep stocked in your fridge. The flavor is fuller than a Dutch Fontina with a smoother texture.  It is great for cooking (melts great), snacking (perfect with some crackers) & serving on a cheese plate (soft yet keeps it shape at room temperature). ",
+    "img": "/assets/images/grocery/cheeses/fontal.jpg",
+    "price": "16.00"
+  },
+  {
+    "name": "Gorgonzola",
+    "category": "cheese",
+    "description": "Gorgonzola is a veined Italian blue cheese, made from unskimmed cow's milk. It can be buttery or firm, crumbly and quite salty, with a \"bite\" from its blue veining.",
+    "img": "/assets/images/grocery/cheeses/gorgonzola.jpg",
+    "price": "15.00"
+  },
+  {
+    "name": "Grana Padano",
+    "category": "cheese",
+    "description": "Grana Padano is a cheese originating in the Po River Valley in northern Italy that is similar to Parmigiano-Reggiano cheese. There are fewer regulations governing its production. This hard, crumbly-textured cheese is made with unpasteurized cow's milk that is semi-skimmed through a natural creaming process.",
+    "img": "/assets/images/grocery/cheeses/grana.jpg",
+    "price": "16.00"
+  },
+  {
+    "name": "Parmigiano Reggiano",
+    "category": "cheese",
+    "description": "Parmigiano-Reggiano or Parmesan is an Italian hard, granular cheese. In the European Economic Area, the name \"Parmesan\" is legally defined as PDO Parmigiano-Reggiano, though it is often used outside Europe for similar non-PDO cheeses.",
+    "img": "/assets/images/grocery/cheeses/parmigiano.jpg",
+    "price": "19.50"
+  },
+  {
+    "name": "Provolone Auricchio",
+    "category": "cheese",
+    "description": "An aged Italian Provolone that is particularly sharp. It is often regarded as one of the best-tasting provolones in the world. In Italian grocery stores, this cheese is often seen dangling by rope from the rafters, which makes it a very well known cheese throughout Italy. Perhaps the most famous Provolone producer is Auricchio, a family business that dates back to 1877. The Auricchio Provolone Piccante here is authentic, imported from Italy, and aged for 12 months. If offers a sharp flavor that zings the tongue. Wonderful in antipasto, with any of our salami, paired with olives and red wine or just on crackers.",
+    "img": "/assets/images/grocery/cheeses/provolone.jpg",
+    "price": "16.00"
+  },
+  {
+    "name": "Pecorino Romano Locatelli",
+    "category": "cheese",
+    "description": "Pecorino Romano is one of the world’s oldest recorded cheeses. Traditionally produced in the Lazio region surrounding Rome, its production has expanded to regions with similar terroir and breeds of sheep, including Tuscany and Sardinia. Pecorino Locatelli is produced from Sardinian sheep milk and aged for at least 9 months. It is salted and rubbed with olive oil by hand during the aging process. After 9 months, experts examine the wheels and ensure that they have the correct texture and aromas. Those wheels that are approved are wrapped in the signature Locatelli printed paper and shipped across the globe. The Auricchio Company has imported Locatelli into the United States since the early 20th century. For many Americans, Locatelli has become synonymous with Pecorino Romano itself.",
+    "img": "/assets/images/grocery/cheeses/locatelli.jpg",
+    "price": "16.20"
+  },
+  {
+    "name": "Pecorino Sardo",
+    "category": "cheese",
+    "description": "Pecorino sardo, also known as fiore sardo, is a firm cheese from the Italian island of Sardinia which is made from sheep milk: specifically from the milk of the local Sardinian breed.",
+    "img": "/assets/images/grocery/cheeses/sardo.jpg",
+    "price": "17.00"
+  },
+  {
+    "name": "Pecorino Toscano",
+    "category": "cheese",
+    "description": "Pecorino Toscano PDO is a Tuscan soft or semi-hard cheese with whole sheep’s milk. It can be enjoyed in two typologies: Fresco (fresh) and Stagionato (Aged).",
+    "img": "/assets/images/grocery/cheeses/toscano.jpg",
+    "price": "17.00"
+  },
+  {
+    "name": "Fresh Mozzarella",
+    "category": "cheese",
+    "description": "Mozzarella is a traditionally southern Italian cheese made from Italian buffalo's milk by the pasta filata method. Mozzarella received a Traditional Specialities Guaranteed certification from the European Union in 1998.",
+    "img": "/assets/images/grocery/cheeses/mozarella.jpg",
+    "price": "9.00"
+  },
+  {
+    "name": "Fresh Ricotta",
+    "category": "cheese",
+    "description": "Ricotta is an Italian whey cheese made from sheep, cow, goat, or Italian water buffalo milk whey left over from the production of other cheeses. Like other whey cheeses, it is made by coagulating the proteins that remain after the casein has been used to make cheese, notably albumin and globulin.",
+    "img": "/assets/images/grocery/cheeses/ricotta.jpg",
+    "price": "4.00"
+  },
+  {
+    "name": "Prosciutto Parma",
+    "category": "meat",
+    "description": "Prosciutto di Parma PDO is a dry-cured charcuterie product, obtained through the processing of fresh legs of Italian Heavy Pigs. At the end of the aging period, each Prosciutto di Parma PDO is fire branded with the Ducal Crown, which guarantees its quality and authenticity. Prosciutto di Parma PDO is 100% natural, made without any additives, such as nitrates, nitrites, preservatives, hormones or coloring agents.",
+    "img": "/assets/images/grocery/meats/parma.jpg",
+    "price": "21.90"
+  },
+  {
+    "name": "Prosciutto San Daniele",
+    "category": "meat",
+    "description": "Prosciutto di San Daniele PDO is a dry cured ham. It has only three ingredients: selected Italian pigs thighs, sea salt and the special microclimate of San Daniele. No additives or preservatives are used. The distinctive sign of excellence of Prosciutto di San Daniele PDO is the Consortium’s brand, applied to the rind. When chewed, the consistency of the slice is tender and dissolves in the mouth.",
+    "img": "/assets/images/grocery/meats/daniele.jpg",
+    "price": "23.00"
+  },
+  {
+    "name": "Mortadella",
+    "category": "meat",
+    "description": "Mortadella is a large Italian sausage or luncheon meat made of finely hashed or ground heat-cured pork, which incorporates at least 15% small cubes of pork fat. It is traditionally flavoured with black pepper grains, but modern versions can also contain pistachios or, more rarely, myrtle berries.",
+    "img": "/assets/images/grocery/meats/mortadella.jpg",
+    "price": "23.00"
+  }
+]

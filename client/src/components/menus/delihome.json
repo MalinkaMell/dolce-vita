@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Dolce Vita Panino",
+    "description": "Prosciutto crudo, gorgonzola, lettuce ,tomatoes.",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "7.50"
+  },
+  {
+    "name": "Dolce Vita Salad",
+    "description": "Lettuce, Cotto Ham, Tomatoes, Olives, Extra Virgin Oil, Mozzarella",
+    "img": "/assets/images/deli/salad.jpg",
+    "price": "7.50"
+  },
+  {
+    "name": "Homemade Cannoli",
+    "description": "Cannoli shells filled with fresh Ricotta Cream, topped with chocolate chips or pistachios.",
+    "img": "/assets/images/deli/cannoli.jpg",
+    "price": "7.50"
+  },
+  {
+    "name": "Tagliere",
+    "description": "Assorted imported meats, cheeses, olives served on a wooden platter",
+    "img": "/assets/images/deli/tagliere.jpg",
+    "price": "7.50"
+  }
+]

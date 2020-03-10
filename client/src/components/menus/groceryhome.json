@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Imported Meat",
+    "description": "Prosciutto, Mortadella and more: all imported from Italy!",
+    "img": "/assets/images/grocery/salumi.jpg"
+  },
+  {
+    "name": "Imported Cheese",
+    "description": "Pecorino, Mozzarella di Bufala and more!",
+    "img": "/assets/images/grocery/cheese.jpg"
+  },
+  {
+    "name": "Fresh Pasta",
+    "description": "Tagliatelle, Trofie, Cavatelli, Ravioli, Gnocchi.",
+    "img": "/assets/images/grocery/pasta.jpg"
+  },
+  {
+    "name": "Homemade Sausages",
+    "description": "Mild or Spicy Homemade Italian Sausages",
+    "img": "/assets/images/grocery/sausage.jpg"
+  }
+]

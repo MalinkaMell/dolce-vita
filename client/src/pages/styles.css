@@ -1,0 +1,31 @@
+/* contact page */
+.icon-wrapper {
+  display: flex;
+  justify-content: space-between;
+  color: #f4f5f0;
+  font-weight: 700;
+  align-self: center;
+  align-items: center;
+  flex-direction: row;
+  width: 100%;
+  padding: 10px;
+  background-color: #008c45;
+  border-radius: .125rem;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+}
+
+.info-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: #121212;
+  font-weight: 400;
+  align-self: center;
+  align-items: center;
+  flex-direction: row;
+  width: 100%;
+  padding: 10px;
+  background-color: #ffffff;
+  border-radius: .125rem;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+}

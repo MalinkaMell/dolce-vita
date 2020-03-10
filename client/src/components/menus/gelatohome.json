@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Stupify",
+    "description": "Creamy and Crunchy: cinnamon and clove spiced cookie crunch and caramel swirls.",
+    "img": "/assets/images/gelatos/stupify.jpg"
+  },
+  {
+    "name": "Stracciatella",
+    "description": "Sweet Cream and Chocolate, the most famous Italian Gelato Flavor!",
+    "img": "/assets/images/gelatos/straccia.jpg"
+  },
+  {
+    "name": "Gelato Cakes",
+    "description": "Homemade Gelato Cakes and Tiramisu",
+    "img": "/assets/images/gelatos/cake.jpg"
+  },
+  {
+    "name": "Affogato",
+    "description": "Your choice of gelato drowned in a espresso coffee and topped with homemade whipping cream",
+    "img": "/assets/images/gelatos/fgfogato.jpg"
+  }
+]

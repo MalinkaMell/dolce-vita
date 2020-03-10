@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Contadino",
+    "category": "panini",
+    "description": "Cotto ham, provolone, giardiniera",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "7.50"
+  },
+  {
+    "name": "Dolomiti",
+    "category": "panini",
+    "description": "Speck (smocked prosciutto), Asiago Cheese, Arugola",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "7.50"
+  },
+  {
+    "name": "Pastore",
+    "category": "panini",
+    "description": "Genova salame, Pecorino Cheese, Olive Tapenade",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "7.50"
+  },
+  {
+    "name": "Vegetariano",
+    "category": "panini",
+    "description": "Marinated eggplants, Mozarella, Lettuce, Tomato",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "7.50"
+  },
+  {
+    "name": "Dolce Vita",
+    "category": "panini",
+    "description": "Prosciutto crudo, Gorgonzola, Lettuce, Tomato",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "7.50"
+  },
+  {
+    "name": "Operaio",
+    "category": "panini",
+    "description": "Mortadella, Asiago cheese, Lettuce, Tomato",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "7.50"
+  },
+  {
+    "name": "Camogli",
+    "category": "panini",
+    "description": "Mozarella, Tomato, Basil",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "7.50"
+  },
+  {
+    "name": "Padrino",
+    "category": "panini",
+    "description": "Capicola, Provolone cheese, Lettuce, Tomato",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "7.50"
+  },
+  {
+    "name": "Calabrese",
+    "category": "panini",
+    "description": "Sorpressata salame (spicy or mild), Pecorino cheese",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "7.50"
+  },
+  {
+    "name": "Alpino",
+    "category": "panini",
+    "description": "Bresaola, Parmigiano cheese, Lettuce",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "7.50"
+  },
+  {
+    "name": "Parma",
+    "category": "panini",
+    "description": "Prosciutto crudo, Mozarella, Tomato",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "7.50"
+  },
+  {
+    "name": "Pescatore",
+    "category": "panini",
+    "description": "Tuna, Mayo, Tomato",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "7.50"
+  },
+  {
+    "name": "Napoli",
+    "category": "panini",
+    "description": "Napoli salame, Provolone cheese, Lettuce, Tomato",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "7.50"
+  },
+  {
+    "name": "Milano",
+    "category": "panini",
+    "description": "Milano salame, Fontal, Mayo",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "7.50"
+  },
+  {
+    "name": "Tagliere per Uno (serves one)",
+    "category": "taglieri",
+    "description": "Assorted imported meats, cheeses and olives, served on wooden platter",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "10.00"
+  },
+  {
+    "name": "Tagliere per Due (serves two)",
+    "category": "taglieri",
+    "description": "Assorted imported meats, cheeses and olives, served on wooden platter",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "15.00"
+  },
+  {
+    "name": "Tagliere per Quattro (serves four)",
+    "category": "taglieri",
+    "description": "Assorted imported meats, cheeses and olives, served on wooden platter",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "25.00"
+  },
+  {
+    "name": "Piatto formaggi",
+    "category": "antipasti",
+    "description": "Sampler platter of italian cheeses served with prestigious marmelads and honey from the Italian Alps",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "15.00"
+  },
+  {
+    "name": "Prosciutto platter",
+    "category": "antipasti",
+    "description": "Prosciutto crudo, cooked ham, mozarella and olives served on wooden platter",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "11.00"
+  },
+  {
+    "name": "Bresaola",
+    "category": "antipasti",
+    "description": "Air cured beef with arugola salad, topped with shaved parmiggiano",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "10.00"
+  },
+  {
+    "name": "Caprese",
+    "category": "antipasti",
+    "description": "Fresh mozarella and tomatoes topped with eevo and basil (add special Essence of Balsamic for extra $2)",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "9.00"
+  },
+  {
+    "name": "Insalatina",
+    "category": "salads",
+    "description": "Organic mix, tomatoes, evoo, vinegar",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "8.00"
+  },
+  {
+    "name": "Insalata con tonno",
+    "category": "salads",
+    "description": "Organic mix, tomatoes, olives, italian tuna, marinated artichokes, evoo, vinegar",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "10.50"
+  },
+  {
+    "name": "Dolce vita salad",
+    "category": "salads",
+    "description": "Organic mix, tomatoes, olives, cotto ham, mozarella, evoo",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "11.00"
+  },
+  {
+    "name": "Bruschetta Classica",
+    "category": "bruschette",
+    "description": "Two pieces of toasted bread rubbed with garlic topped with mozarella, basil, tomato, evoo",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "8.00"
+  },
+  {
+    "name": "Bruschetta alle Melanzane",
+    "category": "bruschette",
+    "description": "Two pieces of toasted bread rubbed with garlic topped with grilled marinated eggplant, mozarella, evoo",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "8.00"
+  },
+  {
+    "name": "Bruschetta con Caprino",
+    "category": "bruschette",
+    "description": "Two pieces of toasted bread rubbed with garlic topped with fresh caprino, speck, evoo",
+    "img": "/assets/images/deli/panino.jpg",
+    "price": "8.00"
+  }
+]
