@@ -35,7 +35,7 @@ router.post("/send", (req, res) => {
   });
 
   const mailOptions = {
-    to: "malinka77@gmail.com",
+    to: process.env.email,
     subject: "This is an email submitted from contact form on your website.",
 		text: "Subject: " + req.body.subject + "\n" + "From: " + req.body.name + "\n" + "Email: " + req.body.email + "\n" + "Message: " + req.body.message
   };
