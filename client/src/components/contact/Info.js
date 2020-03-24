@@ -3,7 +3,7 @@ import { MDBRow, MDBCol } from "mdbreact";
 
 const ContactInfo = () => {
   return (
-    <MDBRow className="text-right pt-3">
+    <MDBRow className="text-right pt-3 mx-2 pt-md-0 mx-md-0">
       <MDBCol md="12" className="flex-column contacts">
         <div className="icon-wrapper">
           <i className="fas fa-map-marker-alt"></i> Address

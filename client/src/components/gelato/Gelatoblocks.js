@@ -2,7 +2,7 @@ import React from "react";
 import { MDBRow, MDBCard, MDBCardBody } from "mdbreact";
 import Blocks from "../common/Blocks";
 
-const Gelatoblocks = () => {
+const GelatoBlocks = () => {
   return (
     <React.Fragment>
       <MDBCard className="p-4 mb-3">
@@ -31,4 +31,4 @@ const Gelatoblocks = () => {
   );
 }
 
-export default Gelatoblocks;
+export default GelatoBlocks;

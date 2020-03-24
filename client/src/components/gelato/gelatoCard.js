@@ -1,10 +1,11 @@
 import React from "react";
-import { MDBCard, MDBCardBody, MDBCardTitle, MDBCardText, MDBCardImage } from "mdbreact";
+import { MDBCol, MDBCard, MDBCardBody, MDBCardTitle, MDBCardText, MDBCardImage } from "mdbreact";
 
 const GelatoCard = props => {
   return (
 
-    <MDBCard className="meni-items mb-3">
+    <MDBCol md="3" xs="12" className="mb-3 pb-3">
+      <MDBCard className="h-100">
       <MDBCardBody>
         <MDBCardTitle tag="h5">{props.name}</MDBCardTitle>
         <MDBCardImage className="img-fluid" src={props.img} waves />
@@ -13,6 +14,7 @@ const GelatoCard = props => {
         </MDBCardText>
       </MDBCardBody>
     </MDBCard>
+    </MDBCol>
 
   );
 }

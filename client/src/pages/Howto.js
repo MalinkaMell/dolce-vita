@@ -1,7 +1,7 @@
 import React from 'react';
 import HowWeMakeIt from '../components/gelato/Howemakeit';
 import Awards from '../components/common/Awards';
-import Gelatoblocks from '../components/gelato/Gelatoblocks';
+import Gelatoblocks from '../components/gelato/GelatoBlocks';
 
 const Howto = () => {
   return (

@@ -6,7 +6,7 @@ const MenuItemWPrice = (props) => {
   return (
     <React.Fragment>
       <div className="panel">
-      <MDBRow className="align-items-center d-flex my-0 my-md-3">
+      <MDBRow className="align-items-center d-flex my-0 my-md-3 ml-md-1">
         <MDBCol md="3">
           <MDBView hover zoom  >
             <img className="img-fluid m-0 pb-4 p-md-0" src={props.img} alt={props.name} />

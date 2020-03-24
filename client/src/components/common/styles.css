@@ -9,9 +9,11 @@
   background-color: #f4f5f0;
   color: #cd212a;
 }
+
 .jumbo-text small {
   color: #008c45;
 }
+
 .righteous {
   font-family: 'Righteous';
 }
@@ -70,7 +72,6 @@
   border: 0!important;
   margin: 0!important;
 }
-
 
 .blockquote-footer {
   font-size: 100%!important;

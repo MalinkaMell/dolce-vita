@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import axios from "axios";
-import { MDBRow, MDBCol, MDBCard, MDBCardBody, MDBBtn, MDBInput, MDBContainer } from "mdbreact";
+import { MDBCard, MDBCardBody, MDBBtn, MDBInput } from "mdbreact";
 
-const ContactForm = props => {
+const ContactForm = () => {
 
   const [isLoading, setIsLoading] = useState(false);
   const [infoText, setInfoText] = useState("");
@@ -25,12 +25,9 @@ const ContactForm = props => {
 
   const inputHandler = e => {
     const { name, value } = e.target;
-    //console.log({ [name]: value });
-
-    setFormData(prevInput => ({ ...prevInput, [name]: value  }))
+    setFormData(prevInput => ({ ...prevInput, [name]: value }))
   }
 
- // console.log(formData)
   const submitHandler = e => {
     e.preventDefault();
     setIsLoading(true);
@@ -50,13 +47,11 @@ const ContactForm = props => {
         } else if (response.data.msg === "fail") {
           setInfoText("Your message has been sent.");
         }
-
       })
   }
 
   return (
-
-    <MDBCard>
+    <MDBCard className="mx-2 mx-md-0">
       <MDBCardBody>
         <form>
           <div className="md-form">
@@ -106,14 +101,13 @@ const ContactForm = props => {
               color="dark-green"
               disabled={isLoading}
               onClick={!isLoading ? submitHandler : null}
-              onClick={submitHandler}>
-              {isLoading ? 'Sending...' : 'Submit'}
+            >
+              {isLoading ? "Sending..." : "Submit"}
             </MDBBtn>
           </div>
         </form>
       </MDBCardBody>
     </MDBCard>
-
   );
 }
 

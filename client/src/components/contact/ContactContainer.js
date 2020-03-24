@@ -1,13 +1,10 @@
-import React, { useState } from "react";
+import React from "react";
 import Titles from "../parts/Titles";
-
-
-import { MDBRow, MDBCol, MDBCard, MDBCardBody, MDBBtn, MDBInput, MDBContainer } from "mdbreact";
+import { MDBRow, MDBCol, MDBContainer } from "mdbreact";
 import ContactForm from "./Form";
 import ContactInfo from "./Info";
 
-const ContactContainer = props => {
-
+const ContactContainer = () => {
   return (
     <MDBContainer className="p-lg-5 p-0 mb-3 text-center">
       <MDBRow className="justify-content-center">
@@ -16,14 +13,13 @@ const ContactContainer = props => {
         </MDBCol>
       </MDBRow>
       <MDBRow>
-        <MDBCol lg="8" className="lg-0 mb-4">
+        <MDBCol md="8" className="m-lg-0 mb-4">
           <ContactForm />
         </MDBCol>
-        <MDBCol lg="4">
+        <MDBCol md="4" className="m-lg-0 mb-4">
           <ContactInfo />
         </MDBCol>
       </MDBRow>
-
     </MDBContainer>
   )
 }

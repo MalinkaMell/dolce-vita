@@ -1,8 +1,11 @@
 import React from 'react';
+import RequestGelato from '../components/request/RequestGelato';
 
 const Request = () => {
   return (
-    <div class="page">Request</div>
+    <React.Fragment>
+      <RequestGelato />
+    </React.Fragment>
   )
 }
 

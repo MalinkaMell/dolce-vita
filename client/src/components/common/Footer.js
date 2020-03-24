@@ -1,5 +1,5 @@
-import React from 'react';
-import Gmap from './Gmap';
+import React from "react";
+import Gmap from "./Gmap";
 
 const Footer = () => {
   return (

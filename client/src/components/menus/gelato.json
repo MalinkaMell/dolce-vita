@@ -2,41 +2,65 @@
   {
     "name": "Stupify",
     "description": "Creamy and Crunchy: cinnamon and clove spiced cookie crunch and caramel swirls.",
-    "img": "/assets/images/gelatos/stupify.jpg"
+    "img": "/assets/images/gelatos/stupify.jpg",
+    "value": "Stupify", 
+    "label": "Stupify"
   },
   {
     "name": "Stracciatella",
     "description": "Sweet Cream and Chocolate, the most famous Italian Gelato Flavor!",
-    "img": "/assets/images/gelatos/straccia.jpg"
+    "img": "/assets/images/gelatos/straccia.jpg",
+    "value": "Stracciatella", 
+    "label": "Stracciatella"
   },
   {
-    "name": "Gelato Cakes",
+    "name": "Strawberry",
     "description": "Homemade Gelato Cakes and Tiramisu",
-    "img": "/assets/images/gelatos/cake.jpg"
+    "img": "/assets/images/gelatos/cake.jpg",
+    "value": "Strawberry", 
+    "label": "Strawberry"
   },
   {
-    "name": "Affogato",
+    "name": "Vanilla",
     "description": "Your choice of gelato drowned in a espresso coffee and topped with homemade whipping cream",
-    "img": "/assets/images/gelatos/fgfogato.jpg"
+    "img": "/assets/images/gelatos/fgfogato.jpg",
+    "value": "Vanilla", 
+    "label": "Vanilla"
   },
   {
-    "name": "Stupify",
+    "name": "Chioccolate",
     "description": "Creamy and Crunchy: cinnamon and clove spiced cookie crunch and caramel swirls.",
-    "img": "/assets/images/gelatos/stupify.jpg"
+    "img": "/assets/images/gelatos/stupify.jpg",
+    "value": "Chioccolate", 
+    "label": "Chioccolate"
   },
   {
-    "name": "Stracciatella",
+    "name": "Banana",
     "description": "Sweet Cream and Chocolate, the most famous Italian Gelato Flavor!",
-    "img": "/assets/images/gelatos/straccia.jpg"
+    "img": "/assets/images/gelatos/straccia.jpg",
+    "value": "Banana", 
+    "label": "Banana"
   },
   {
-    "name": "Gelato Cakes",
+    "name": "Limoncello",
     "description": "Homemade Gelato Cakes and Tiramisu",
-    "img": "/assets/images/gelatos/cake.jpg"
+    "img": "/assets/images/gelatos/cake.jpg",
+    "value": "Limoncello", 
+    "label": "Limoncello"
   },
   {
-    "name": "Affogato",
+    "name": "Raspberry",
     "description": "Your choice of gelato drowned in a espresso coffee and topped with homemade whipping cream",
-    "img": "/assets/images/gelatos/fgfogato.jpg"
+    "img": "/assets/images/gelatos/fgfogato.jpg",
+    "value": "Raspberry", 
+    "label": "Raspberry"
+  }
+  ,
+  {
+    "name": "Other",
+    "description": "Your choice of gelato drowned in a espresso coffee and topped with homemade whipping cream",
+    "img": "/assets/images/gelatos/fgfogato.jpg",
+    "value": "other", 
+    "label": "Other"
   }
 ]

@@ -117,5 +117,75 @@
     "description": "Mortadella is a large Italian sausage or luncheon meat made of finely hashed or ground heat-cured pork, which incorporates at least 15% small cubes of pork fat. It is traditionally flavoured with black pepper grains, but modern versions can also contain pistachios or, more rarely, myrtle berries.",
     "img": "/assets/images/grocery/meats/mortadella.jpg",
     "price": "23.00"
+  },
+  {
+    "name": "Genoa salami",
+    "category": "meat",
+    "description": "Genoa salami is a variety of salami commonly believed to have originated in the area of Genoa. It is normally made from pork, but may also contain veal. It is seasoned with garlic, salt, black and white peppercorns, and red or white wine. Like many Italian sausages, it has a characteristic fermented flavor.",
+    "img": "/assets/images/grocery/meats/genoa.jpg",
+    "price": "12.00"
+  },
+  {
+    "name": "Napoli salami",
+    "category": "meat",
+    "description": "Despite its very characterizing name, Napoli salami is produced and widesperad in the whole Campania region. For the preparation of Napoli salami is used a mix of lean pork meat, lean veal and hard pork fat in equal parts. Veal meat is finely minced, while all the rest is minced much coarser.",
+    "img": "/assets/images/grocery/meats/napoli.jpg",
+    "price": "17.00"
+  },
+  {
+    "name": "Milano salami",
+    "category": "meat",
+    "description": "Traditionally produced for centuries in Italian old-country farmhouses and villages, Milano salami is dry cured and made with pork, sea salt, and red wine. Beretta's Salame are made from the finest raw materials and ingredients available to recreate these regional Italian cured meats.",
+    "img": "/assets/images/grocery/meats/milano.jpg",
+    "price": "17.00"
+  },
+  {
+    "name": "Soppressata salami (mild or spicy)",
+    "category": "meat",
+    "description": "Soppressata is an Italian dry salami. Although there are many variations, two principal types are made: a cured dry sausage typical of Basilicata, Apulia, and Calabria, and a very different uncured salame, made in Tuscany and Liguria.",
+    "img": "/assets/images/grocery/meats/soppressata.jpg",
+    "price": "14.80"
+  },
+  {
+    "name": "Finocchiona",
+    "category": "meat",
+    "description": "Finocchiona is a salami variety, typical of Tuscany, Florence area. It is characterized for the use of fennel.",
+    "img": "/assets/images/grocery/meats/finocchiona.jpg",
+    "price": "17.00"
+  },
+  {
+    "name": "Coppa",
+    "category": "meat",
+    "description": "Traditional Coppa Salami is a masterpiece toasty pig muscle salted with salt, pepper and spices including cloves, cinnamon and nutmeg. The meat is uniformly red and speckled with white fat between the muscle fibers. The scent is intense and distinctive, while the taste is also sweet and delicate.",
+    "img": "/assets/images/grocery/meats/coppa.jpg",
+    "price": "17.00"
+  },
+  {
+    "name": "Speck Alto Adige",
+    "category": "meat",
+    "description": "Speck Alto Adige PGI is a dry-cured, lightly smoked ham, produced in South Tyrol, northern Italy. Parts of its production are regulated by the European Union under the protected geographical indication status.",
+    "img": "/assets/images/grocery/meats/speck.jpg",
+    "price": "19.00"
+  },
+  {
+    "name": "Guanciale",
+    "category": "meat",
+    "description": "Guanciale is an Italian cured meat product prepared from pork jowl or cheeks. Its name is derived from guancia, the Italian word for 'cheek'.",
+    "img": "/assets/images/grocery/meats/guanciale.jpg",
+    "price": "17.00"
+  },
+  {
+    "name": "Pancetta",
+    "category": "meat",
+    "description": "Pancetta is a salumi made of pork belly meat that is salt cured. Pancetta in Italy is typically cooked to add depth to soups and pastas.",
+    "img": "/assets/images/grocery/meats/pancetta.jpg",
+    "price": "17.00"
+  },
+  {
+    "name": "Bresaola",
+    "category": "meat",
+    "description": "Bresaola is air-dried, salted beef that has been aged two or three months until it becomes hard and turns a dark red, almost purple color. It is made from top round, and it is lean and tender, with a sweet, musty smell. It originated in Valtellina, a valley in the Alps of northern Italy's Lombardy region.",
+    "img": "/assets/images/grocery/meats/bresaola.jpg",
+    "price": "23.90"
   }
 ]

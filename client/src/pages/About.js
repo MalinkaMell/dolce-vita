@@ -1,14 +1,14 @@
-import React from 'react';
-import AboutUs from '../components/about/About';
-import Awards from '../components/common/Awards';
-import Gelatoblocks from '../components/gelato/Gelatoblocks';
+import React from "react";
+import AboutUs from "../components/about/About";
+import Awards from "../components/common/Awards";
+import GelatoBlocks from "../components/gelato/GelatoBlocks";
 
 const About = () => {
   return (
     <React.Fragment>
       <AboutUs />
       <Awards />
-      <Gelatoblocks />
+      <GelatoBlocks />
     </React.Fragment>
   )
 }

@@ -1,8 +1,12 @@
-import React from 'react';
+import React from "react";
+import AwardsGroup from "../components/awards/AwardsGroup";
+
 
 const Awards = () => {
-  return (
-    <div class="page">Award</div>
+  return(
+    <React.Fragment>
+      <AwardsGroup />
+    </React.Fragment>
   )
 }
 

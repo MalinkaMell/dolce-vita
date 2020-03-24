@@ -3,7 +3,7 @@ import { MDBCol, MDBMask, MDBView } from "mdbreact";
 
 const Blocks = props => {
   return (
-    <MDBCol lg={props.cols} md="12" className="mb-lg-0 mb-4">
+    <MDBCol lg={props.cols.toString()} md="12" className="mb-lg-0 mb-4">
       <MDBView hover className="rounded z-depth-1 mb-4" waves>
         <img className="img-fluid w-100 p-2" src={props.img} alt="" />
         <MDBMask overlay="white-slight" />

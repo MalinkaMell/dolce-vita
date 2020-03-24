@@ -1,9 +1,12 @@
 import React from 'react';
+import Reviews from '../components/reviews/Reviews';
 
-const Reviews = () => {
+const ReviewsPage = () => {
   return (
-    <div class="page">Reviews</div>
+    <React.Fragment>
+      <Reviews />
+    </React.Fragment>
   )
 }
 
-export default Reviews;
+export default ReviewsPage;

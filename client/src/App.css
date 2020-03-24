@@ -113,3 +113,12 @@ a.dropdown-item  {
   min-width: 16%!important;
   max-width: 16%!important;
 }
+@media (min-width: 992px)
+{
+  .award-items {
+    width: 20%!important;
+    min-width: 20%!important;
+    max-width: 20%!important;
+  
+  }
+}

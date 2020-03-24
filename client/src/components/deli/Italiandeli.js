@@ -2,9 +2,6 @@ import React from "react";
 import { MDBRow, MDBCol, MDBCard, MDBCardBody } from "mdbreact";
 import Titles from "../parts/Titles";
 import Contenttext from "../parts/Contenttext";
-import ContentButton from "../parts/Contentbutton";
-import ContentImage from "../parts/ContentImage";
-
 
 const ItalianDeli = () => {
   return (
