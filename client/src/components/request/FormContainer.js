@@ -38,6 +38,8 @@ const RequestForm = () => {
       formMessage: "",
       formDate: ""
     });
+    setSelectedOptions([]);
+    setPickUpDate(addDays(new Date(), 1))
     setIsLoading(false);
   }
 
@@ -60,7 +62,6 @@ const RequestForm = () => {
 
   const submitHandler = e => {
     e.preventDefault();
-
     let data = {
       name: formData.formName,
       email: formData.formEmail,
@@ -103,6 +104,7 @@ const RequestForm = () => {
           isLoading={isLoading}
           submitHandler={submitHandler}
           pickUpDate={pickUpDate}
+          pickDate={pickDate}
         />
       </MDBCardBody>
     </MDBCard>

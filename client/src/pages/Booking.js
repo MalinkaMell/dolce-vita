@@ -1,8 +1,9 @@
 import React from 'react';
+import Reservation from "../components/booking/Booking";
 
 const Booking = () => {
   return (
-    <div class="page">Booking</div>
+    <Reservation />
   )
 }
 
