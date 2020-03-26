@@ -2,6 +2,7 @@ import React from "react";
 import { MDBRow, MDBCard, MDBCardBody } from "mdbreact";
 import Blocks from "../common/Blocks";
 
+
 const GelatoBlocks = () => {
   return (
     <React.Fragment>

@@ -10,6 +10,7 @@ const About = () => {
       <Awards />
       <GelatoBlocks />
     </React.Fragment>
+    
   )
 }
 
