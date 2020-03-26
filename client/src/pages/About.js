@@ -1,7 +1,7 @@
 import React from "react";
 import AboutUs from "../components/about/About";
 import Awards from "../components/common/Awards";
-import GelatoBlocks from "../components/gelato/GelatoBlocks";
+import GelatoBlocks from "../components/gelato/Gelatoblocks";
 
 const About = () => {
   return (
@@ -10,7 +10,7 @@ const About = () => {
       <Awards />
       <GelatoBlocks />
     </React.Fragment>
-    
+
   )
 }
 
