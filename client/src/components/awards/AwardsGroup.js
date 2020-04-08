@@ -1,7 +1,7 @@
 import React from "react";
 import { MDBRow, MDBCol, MDBCard, MDBCardBody, MDBContainer } from "mdbreact";
 import Titles from "../parts/Titles";
-import AwardCard from "./AwardsCard";
+import AwardCard from "./Awardscard";
 import awards from "../menus/awards.json";
 
 const years = ["2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012/2011"];

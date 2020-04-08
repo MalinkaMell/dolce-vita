@@ -1,7 +1,7 @@
 import React from "react";
 import Titles from "../parts/Titles";
 import { MDBRow, MDBCol, MDBContainer } from "mdbreact";
-import RequestForm from "./FormContainer";
+import RequestForm from "./Formcontainer";
 
 const RequestGelato = () => {
   return (
