@@ -1,5 +1,5 @@
 import React from "react";
-import AwardsGroup from "../components/awards/AwardsGroup";
+import AwardsGroup from "../components/awards/Awardsgroup";
 
 
 const Awards = () => {
