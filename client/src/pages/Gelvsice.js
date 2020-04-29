@@ -1,14 +1,14 @@
 import React from 'react';
-import Compare from '../components/gelato/Gelatovsice';
+import Compare from '../components/gelato/Vs';
 import Awards from '../components/common/Awards';
-import Gelatoblocks from '../components/gelato/Gelatoblocks';
+import GelatoBlocks from '../components/gelato/Blocks';
 
 const Gelvsice = () => {
   return (
     <React.Fragment>
       <Compare />
       <Awards />
-      <Gelatoblocks />
+      <GelatoBlocks />
     </React.Fragment>
   )
 }

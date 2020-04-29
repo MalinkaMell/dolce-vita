@@ -2,7 +2,7 @@ import React from "react";
 import { MDBContainer, MDBCard, MDBCardBody, MDBRow, MDBCol } from "mdbreact";
 import Titles from "../parts/Titles";
 import gelato from '../menus/gelato.json';
-import GelatoCard from "./Gelatocard";
+import GelatoCard from "./Card";
 
 const Flavors = () => {
   return (

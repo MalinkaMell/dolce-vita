@@ -1,14 +1,14 @@
 import React from 'react';
-import HowWeMakeIt from '../components/gelato/Howemakeit';
+import HowWeMakeIt from '../components/gelato/How';
 import Awards from '../components/common/Awards';
-import Gelatoblocks from '../components/gelato/Gelatoblocks';
+import GelatoBlocks from '../components/gelato/Blocks';
 
 const Howto = () => {
   return (
     <React.Fragment>
       <HowWeMakeIt />
       <Awards />
-      <Gelatoblocks />
+      <GelatoBlocks />
     </React.Fragment>
   )
 }
