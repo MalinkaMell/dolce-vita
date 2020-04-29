@@ -3,7 +3,7 @@ import axios from "axios";
 import { MDBCard, MDBCardBody } from "mdbreact";
 import { addDays, getDay } from 'date-fns';
 import options from "../menus/gelato.json";
-import FormDisplay from "./Formdisplay";
+import FormDisplay from "./Form";
 import "react-datepicker/dist/react-datepicker.css";
 
 

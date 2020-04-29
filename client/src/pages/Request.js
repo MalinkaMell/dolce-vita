@@ -1,5 +1,5 @@
 import React from 'react';
-import RequestGelato from '../components/request/Requestgelato';
+import RequestGelato from '../components/request/Request';
 
 const Request = () => {
   return (
