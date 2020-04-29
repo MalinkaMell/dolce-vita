@@ -1,9 +1,9 @@
 import React from "react";
 
-const Contenttext = props => {
+const ContentText = props => {
   return (
     <div className="text-left">{props.children}</div>
   );
 }
 
-export default Contenttext;
+export default ContentText;

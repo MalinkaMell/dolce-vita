@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { MDBRow, MDBCol, MDBCard, MDBCardBody, MDBContainer } from "mdbreact";
 import Titles from "../parts/Titles";
-import Contenttext from "../parts/Contenttext";
+import ContentText from "../parts/Text";
 import axios from "axios";
 
 const Reviews = () => {
@@ -25,11 +25,11 @@ const Reviews = () => {
           <MDBRow>
             <MDBCol>
               <Titles title="Reviews" subTitle="What people say about us" />
-              <Contenttext>
+              <ContentText>
                 <p className="text-center">Our paninis and antipastos are made with cold cuts, cheeses, oil and vinegar imported from Italy. </p>
                 <p className="text-center">Our bread is imported from Italy as well.</p>
                 <p className="text-center">All the vegetables we use are local and organic</p>
-              </Contenttext>
+              </ContentText>
             </MDBCol>
           </MDBRow>
         </MDBCardBody>

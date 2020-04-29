@@ -1,9 +1,9 @@
 import React from "react";
 import { MDBRow, MDBCol, MDBCard, MDBCardBody } from "mdbreact";
 import Titles from "../parts/Titles";
-import Contenttext from "../parts/Contenttext";
-import ContentButton from "../parts/Contentbutton";
-import ContentImage from "../parts/ContentImage";
+import ContentText from "../parts/Text";
+import ContentButton from "../parts/Button";
+import ContentImage from "../parts/Image";
 
 
 const Gelato = () => {
@@ -16,7 +16,7 @@ const Gelato = () => {
           </MDBCol>
           <MDBCol lg="7">
             <Titles title="Our Gelato" subTitle="We do it italian way!" />
-            <Contenttext>
+            <ContentText>
 
               <p>We pride ourselves in using only the highest quality ingredients for our gelato. Our almonds come from Puglia; pistachios from Sicily; hazelnuts from Piedmont, etc. Our fruit sorbets use local, in season fruits whenever possible. Even the milk and cream we use is local.</p>
 
@@ -24,7 +24,7 @@ const Gelato = () => {
 
               <p>Our gelato is completely handmade, no additives, no artificial flavors. Only true and healthy ingredients.</p>
 
-            </Contenttext>
+            </ContentText>
             <ContentButton btnText="Check out our gelato" link="/gelato" />
           </MDBCol>
         </MDBRow>

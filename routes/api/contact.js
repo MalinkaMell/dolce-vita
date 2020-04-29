@@ -17,15 +17,6 @@ router.post("/send", (req, res) => {
     }
   });
 
-  /* const smtpTransport = nodemailer.createTransport({
-    host: "smtp.ethereal.email",
-    port: 587,
-    auth: {
-      user: "fred.rempel51@ethereal.email",
-      pass: "HkZ68kqQkD6EcwshZj"
-    }
-  }); */
-
   smtpTransport.verify((error, success) => {
     if (error) {
       console.log(error);

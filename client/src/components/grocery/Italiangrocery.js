@@ -1,7 +1,7 @@
 import React from "react";
 import { MDBRow, MDBCol, MDBCard, MDBCardBody } from "mdbreact";
 import Titles from "../parts/Titles";
-import Contenttext from "../parts/Contenttext";
+import ContentText from "../parts/Text";
 
 const ItalianGrocery = props => {
   return (
@@ -10,11 +10,11 @@ const ItalianGrocery = props => {
         <MDBRow>
           <MDBCol>
             <Titles title="Italian Grocery" subTitle="Everything is imported from Italy" />
-            <Contenttext>
+            <ContentText>
               <p className="text-center">Our paninis and antipastos are made with cold cuts, cheeses, oil and vinegar imported from Italy. </p>
               <p className="text-center">Our bread is imported from Italy as well.</p>
               <p className="text-center">All the vegetables we use are local and organic</p>
-            </Contenttext>
+            </ContentText>
           </MDBCol>
         </MDBRow>
       </MDBCardBody>

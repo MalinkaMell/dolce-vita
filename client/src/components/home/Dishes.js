@@ -2,7 +2,7 @@ import React from "react";
 import { MDBRow, MDBCol, MDBCard, MDBCardBody } from "mdbreact";
 import Menus from "./Menus";
 import Titles from "../parts/Titles";
-import ContentImage from "../parts/ContentImage";
+import ContentImage from "../parts/Image";
 
 const Dishes = () => {
   return (

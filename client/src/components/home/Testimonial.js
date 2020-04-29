@@ -14,9 +14,6 @@ const Testimonial = props => {
         </div>
       </MDBCol>
     </React.Fragment>
-
-
-
   );
 }
 
