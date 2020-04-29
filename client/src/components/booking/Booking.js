@@ -1,7 +1,7 @@
 import React from "react";
 import Titles from "../parts/Titles";
 import { MDBRow, MDBCol, MDBContainer } from "mdbreact";
-import BookingContainer from "./Bookingcontainer";
+import BookingContainer from "./Container";
 
 const Reservation = () => {
   return (
