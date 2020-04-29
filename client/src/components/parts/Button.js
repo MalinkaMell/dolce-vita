@@ -7,7 +7,7 @@ const ContentButton = props => {
   return (
     <React.Fragment>
       <Link to={props.link}>
-        <MDBBtn color="dark-green" size="md" className="mb-lg-0 my-4 waves-light" >
+        <MDBBtn color={props.color} size="md" className="mb-lg-0 my-4 waves-light" >
           {props.btnText}
         </MDBBtn>
       </Link>

@@ -26,7 +26,7 @@ const Compare = () => {
                 
                 <p><b>Serving style:</b> Authentic Italian gelato isn’t scooped, it’s served with a spade.`</p>
            </ContentText>
-            <ContentButton btnText="Check out our Flavors" link="/gelato" />
+            <ContentButton btnText="Check out our Flavors" link="/gelato" color="dark-green" />
           </MDBCol>
           <MDBCol lg="5">
             <ContentImage src="/assets/images/gelatovsice.png" alt="Our Gelato" />

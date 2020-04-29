@@ -25,7 +25,7 @@ const Gelato = () => {
               <p>Our gelato is completely handmade, no additives, no artificial flavors. Only true and healthy ingredients.</p>
 
             </ContentText>
-            <ContentButton btnText="Check out our gelato" link="/gelato" />
+            <ContentButton btnText="Check out our gelato" link="/gelato" color="dark-green" />
           </MDBCol>
         </MDBRow>
       </MDBCardBody>

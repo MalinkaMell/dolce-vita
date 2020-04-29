@@ -19,7 +19,7 @@ const Story = () => {
               
               <p>Come to visit us! You will feel the authentic Italian passion for food and maybe you will even learn Italian!</p>
             </ContentText>
-            <ContentButton btnText="Read More" link="/about" />
+            <ContentButton btnText="Read More" link="/about" color="dark-green" />
           </MDBCol>
           <MDBCol lg="5">
             <ContentImage src="/assets/images/gelato-1.jpg" alt="Our Gelato" />

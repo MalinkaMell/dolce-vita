@@ -1,8 +1,9 @@
 import React from 'react';
+import CareersContainer from '../components/careers/Container';
 
 const Careers = () => {
   return (
-    <div class="page">Careers</div>
+    <CareersContainer /> 
   )
 }
 

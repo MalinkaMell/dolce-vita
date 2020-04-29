@@ -18,7 +18,7 @@ const HowWeMakeIt = () => {
               <p>We import from Italy some ingredients such as Pistachios from Bronte, Sicily. Our almonds come from Puglia; pistachios from Sicily; hazelnuts from Piedmont. We try to select the best ingredients for our gelato. Every morning we make fresh gelato. Our flavors change often because of the availability of the ingredients. We prefer to sell only flavors that are fresh and healthier.</p>
               <p>In our 15 years, we received a lot of awards. We are proud of it and it guarantees all our customers that our gelato is truly artisan and made daily fresh.</p>
             </ContentText>
-            <ContentButton btnText="Check out our Flavors" link="/gelato" />
+            <ContentButton btnText="Check out our Flavors" link="/gelato" color="dark-green" />
           </MDBCol>
           <MDBCol lg="5">
             <ContentImage src="/assets/images/gelato.jpg" alt="Our Gelato" />

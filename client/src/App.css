@@ -27,11 +27,11 @@
   font-weight: 700!important;
 }
 
-.contacts a {
+.contacts a, .careers a {
   color: #cd212a!important;
 }
 
-.contacts a:hover {
+.contacts a:hover, .careers a:hover {
   color: #008c45!important;
 }
 
