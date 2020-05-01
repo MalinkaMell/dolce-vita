@@ -1,10 +1,10 @@
 import React from 'react';
-import Reviews from '../components/reviews/Reviews';
+import ReviewsContainer from '../components/reviews/Container';
 
 const ReviewsPage = () => {
   return (
     <React.Fragment>
-      <Reviews />
+      <ReviewsContainer />
     </React.Fragment>
   )
 }

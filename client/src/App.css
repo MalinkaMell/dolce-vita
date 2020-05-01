@@ -10,11 +10,11 @@
   background-color: #f4f5f0!important;
 }
 
-.italian-red-color {
+.italian-red-color, a.italian-red-color, a:hover.italian-green-color {
   color: #cd212a!important;
 }
 
-.italian-green-color {
+.italian-green-color, a:hover.italian-red-color, a.italian-green-color {
   color: #008c45!important;
 }
 
@@ -32,7 +32,12 @@
 }
 
 .contacts a:hover, .careers a:hover {
+  text-decoration: none!important;
   color: #008c45!important;
+}
+
+.reviews a:hover, .careers a:hover {
+  text-decoration: none!important;
 }
 
 a:hover.color-black {
