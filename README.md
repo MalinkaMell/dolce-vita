@@ -19,7 +19,7 @@ Work in progress...
 * Nodemailer
 * Yelp fusion
 
-![Screenshot](client/public/assets/images/screen-1.jpg =250x)
-![Screenshot](client/public/assets/images/screen-2.jpg =250x)
-![Screenshot](client/public/assets/images/screen-3.jpg =250x)
-![Screenshot](client/public/assets/images/screen-4.jpg =250x)
+![Screenshot](client/public/assets/images/screen-1.jpg){width=250px}
+![Screenshot](client/public/assets/images/screen-2.jpg){width=250px}
+![Screenshot](client/public/assets/images/screen-3.jpg){width=250px}
+![Screenshot](client/public/assets/images/screen-4.jpg){width=250px}
