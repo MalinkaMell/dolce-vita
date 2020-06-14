@@ -22,3 +22,6 @@ Work in progress...
 ---
 
  <img src="/client/public/assets/images/screen-2.jpg" width="250" >
+<img src="/client/public/assets/images/screen-1.jpg" width="250" >
+<img src="/client/public/assets/images/screen-3.jpg" width="250" >
+<img src="/client/public/assets/images/screen-4.jpg" width="250" >
