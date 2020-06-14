@@ -4,6 +4,9 @@
 
 Design/development for local Italian gelato and grocery store. Work in progress!
 
+[Heroku deployed demo](https://dolce-vita.herokuapp.com/)
+
+
 ### Technologies/Npm packages used:
 
 * JavaScript/ES6 / HTML5 / CSS3
