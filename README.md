@@ -4,8 +4,6 @@
 
 Design/development for local Italian gelato and grocery store. Work in progress!
 
-Work in progress...
-
 ### Technologies/Npm packages used:
 
 * JavaScript/ES6 / HTML5 / CSS3
@@ -21,10 +19,11 @@ Work in progress...
 
 ---
 
-<img src="/client/public/assets/images/screen-2.jpg" width="250" style="float: left;">
-<img src="/client/public/assets/images/screen-1.jpg" width="250" style="float: left;" >
+<img src="/client/public/assets/images/screen-2.jpg" width="350" >
+<img src="/client/public/assets/images/screen-1.jpg" width="350"  >
+<img src="/client/public/assets/images/screen-3.jpg" width="350" >
+<img src="/client/public/assets/images/screen-4.jpg" width="350" >
 
----
+--- 
 
-<img src="/client/public/assets/images/screen-3.jpg" width="250" style="float: left;">
-<img src="/client/public/assets/images/screen-4.jpg" width="250" style="float: left;" >
+Work in progress...
