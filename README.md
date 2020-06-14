@@ -15,10 +15,11 @@ Work in progress...
 * Bootstrap / React Bootstrap / Mdbreact 
 * Express
 * Axios 
+* Dotenv
 * Nodemailer
 * Yelp fusion
 
-![Screenshot](public/assets/images/screen-1.jpg)
-![Screenshot](public/assets/images/screen-2.jpg)
-![Screenshot](public/assets/images/screen-3.jpg)
-![Screenshot](public/assets/images/screen-4.jpg)
+![Screenshot](client/public/assets/images/screen-1.jpg)
+![Screenshot](client/public/assets/images/screen-2.jpg)
+![Screenshot](client/public/assets/images/screen-3.jpg)
+![Screenshot](client/public/assets/images/screen-4.jpg)
