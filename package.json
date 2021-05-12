@@ -25,7 +25,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.16.3",
     "if-env": "^1.0.4",
-    "nodemailer": "^6.4.4",
+    "nodemailer": "^6.4.16",
     "react-datepicker": "^2.14.1",
     "react-select": "^3.1.0",
     "yelp-fusion": "^3.0.0"
